@@ -175,5 +175,5 @@ Using the command: **python3 fridump3.py -u Strings**
 This lab offers a comprehensive exploration of Frida scripting, covering everything from analysing function 
 results to memory scanning for secret retrieval.
 
-Happy Learning 😄
+Happy Learning 😊
 
