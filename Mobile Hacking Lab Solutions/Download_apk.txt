@@ -1,0 +1,9 @@
+[NOTE] Always use these command in Super User mode 
+
+[~]:$ sudo su
+[~]:$ openvpn enterprise.corellium.com\ VPN\ -\ k**$$$$@@@@@***gf.ovpn
+[~]:$ adb connect 10.11..:5001
+[~]:$ adb devices
+[~]:$ adb shell pm list packages | grep -i com.mobilehackinglab 
+[~]:$ adb shell pm path com.mobilehackinglab.documentviewer
+[]:$ adb pull /data/app/~-kG0uZLuM0NVcdPTWtjDZw==/com.mobilehackinglab.documentviewer-c0GKTthgQqLKCLjzZzLWtA==/base.apk
