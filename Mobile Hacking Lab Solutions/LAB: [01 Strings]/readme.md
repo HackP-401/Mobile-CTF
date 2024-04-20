@@ -3,8 +3,7 @@
 Hello everyone! Hope you all are doing well. In this blog post I’ll walk you through my learnings from the Mobile Hacking Lab - [Strings](https://www.mobilehackinglab.com/course/lab-strings) and walk you through my journey to crack this challenge.  
 
 ---
-# Introduction:
-Mobile Hacking Lab gives you access of Corellium instance for 120 min Online mode (Browser), I decided to solve the challenge on my linux machine and download the base.apk from corellium instance. To download the same in your machine, follow the steps. 
+Mobile Hacking Lab gives you access of Corellium instance for 120 min Online mode (Browser), I decided to solve the challenge on my linux machine and download the base.apk from corellium instance. To download the same in your machine, follow the [steps](https://github.com/HackP-401/Mobile-CTF/blob/main/Mobile%20Hacking%20Lab%20Solutions/Download_apk.txt). 
 
 <img align="right" src="https://github.com/HackP-401/Mobile-CTF/assets/73713378/7938fdaf-ce83-4b1a-9e54-feb63f32046f" alt="1" width="200" height="200" />
 <br />
